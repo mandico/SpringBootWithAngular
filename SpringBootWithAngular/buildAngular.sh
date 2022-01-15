@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../angular-app
+cd ../web
 
 npm --version
 npm install --no-optional --no-audit --verbose
